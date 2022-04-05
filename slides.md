@@ -19,8 +19,6 @@ info: |
 # persist drawings in exports and build
 drawings:
   persist: false
-
-download: true
 ---
 
 # How to SCRUM
