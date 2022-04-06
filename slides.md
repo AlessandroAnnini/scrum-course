@@ -340,9 +340,9 @@ E' responsabilita' dello **Scrum Master**
 
 # Sprint retrospective - template
 
-- What went well?
-- What didn’t?
-- What could we do differently?
+- Cosa e' andato bene?
+- Cosa e' andato male?
+- Che cosa potremmo cambiare?
 
 ---
 
