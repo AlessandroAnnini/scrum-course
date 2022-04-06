@@ -348,7 +348,7 @@ E' responsabilita' dello **Scrum Master**
 
 # Visione d'insieme
 
-<img src="https://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg" style="height: 100%;">
+<img src="https://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg" style="height: 80%;">
 
 ---
 
