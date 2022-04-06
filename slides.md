@@ -14,10 +14,8 @@ lineNumbers: false
 download: true
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## Corso scrum @Nautes by Alessandro Annini
+  April 5 2022
 # persist drawings in exports and build
 drawings:
   persist: false
