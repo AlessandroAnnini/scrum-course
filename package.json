@@ -11,5 +11,8 @@
     "@slidev/theme-seriph": "*",
     "slidev-theme-geist": "^0.8.1"
   },
-  "name": "scrum-course"
+  "name": "scrum-course",
+  "devDependencies": {
+    "playwright-chromium": "^1.20.2"
+  }
 }
