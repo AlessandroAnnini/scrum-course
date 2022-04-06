@@ -348,7 +348,7 @@ E' responsabilita' dello **Scrum Master**
 
 # Visione d'insieme
 
-<img src="https://www.neonrain.com/wp-content/uploads/2017/02/scrum_process_afa_5000.jpg" style="height: 100%;">
+<img src="https://1.bp.blogspot.com/-5EC7uXfIxR8/VlhTFG2O2uI/AAAAAAAAXg0/eAT3wtpDk3s/s1600/SystemsPlus-Scrum-Image-.jpg" style="height: 100%;">
 
 ---
 
@@ -375,17 +375,18 @@ E' responsabilita' dello **Scrum Master**
 
 Mostra la quantita' di lavoro che rimane per completare un dato sprint.
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/10fce60a-2c6d-4852-8712-730e4dfb6be0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220405%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220405T061253Z&X-Amz-Expires=86400&X-Amz-Signature=5227da99d3632850990929092fff7f3407c587aac2a575359ecbb6c741b641f2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" style="height: 60%;" >
+<img src="https://managementbliss.com/wp-content/uploads/2020/11/Burndown-chart-1536x1298.png" style="height: 60%;" >
 
 ---
 
 # Cono di incertezza
 
 - E' la rappresentazione del fatto che all'inizio del progetto l'incertezza e' al massimo. Piu' facciamo e piu' riduciamo l'incertezza.
-
 - Piu' lunga, lontana e' la previsione, tanto meno sara' accurata.
+- Nel waterfall la stima si fa nella prima parte del cono, proprio dove la possibilita' di errore e' massima.
+- **Le conseguenze sul progetto sono devastanti dal punto di vista delle tempistiche ed anche del ritorno economico.**
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e381fc0-5164-4774-99c6-5f69fe7963b1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220405%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220405T061415Z&X-Amz-Expires=86400&X-Amz-Signature=b39f557669055f77473b0bde60428f29424082af64f9c2a164e66bafcb4c6a7a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject" style="height: 60%;">
+<img src="https://helloscriptkitty.files.wordpress.com/2012/03/cone_of_uncert.png" style="height: 60%;">
 
 ---
 
